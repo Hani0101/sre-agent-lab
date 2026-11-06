@@ -1,1 +1,1 @@
-# -sre-agent-lab
+# sre-agent-lab
