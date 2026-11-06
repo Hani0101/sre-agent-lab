@@ -3,6 +3,6 @@
 "version": "1.0.0",
 "description": "Demo project for Dependabot",
 "dependencies": {
-    "express": "5.3.0"
+    "express": "4.3.0"
   }
 }
